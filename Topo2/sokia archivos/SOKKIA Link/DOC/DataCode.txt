@@ -1,0 +1,8 @@
+0;Symbol Name;심볼명
+1;Sym. Color;심볼색상
+2;Scale;심볼축척
+3;Line;현황선
+4;Line Color;선색상
+5;Closed;선폐합
+6;Linetype;선유형
+7;Code input to instrument;기계로 코드보내기

@@ -1,0 +1,6 @@
+0;Undo;실행되돌리기
+1;Sort by Pt.';Pt. 정렬
+2;read;읽기
+3;Record Type;Record 유형
+4;Reduce;좌표 변환
+5;View Parameters;Parameters 보기

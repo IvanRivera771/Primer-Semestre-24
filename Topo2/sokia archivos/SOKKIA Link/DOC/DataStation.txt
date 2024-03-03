@@ -1,0 +1,10 @@
+0;Dist Calc.;거리계산
+1;Area Calc.;면적계산
+3;User Input;사용자입력
+4;Update;반영
+6;Azimuth Calc.;방위각 계산
+7;Swing Calc.;스윙각 계산
+8;Update All;전체 반영
+9;Undo;실행 되돌리기
+10;Sort by Pt.;Pt. 정렬
+

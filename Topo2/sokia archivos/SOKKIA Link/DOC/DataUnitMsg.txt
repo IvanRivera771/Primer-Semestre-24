@@ -1,0 +1,4 @@
+0;Unit convertion, Are you OK?;단위가 변환됨, 진행 하겠습니까?
+1;Do not show this message again.;프로그램 종료 때 까지 안나타남.
+2;Opening File;열리는 파일
+3;Display Data;작업 데이타

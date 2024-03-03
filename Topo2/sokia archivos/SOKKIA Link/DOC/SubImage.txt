@@ -1,0 +1,4 @@
+0;Base Point;삽입점
+1;Rotate;회전
+2;Scale;축척
+3;DPI;해상도

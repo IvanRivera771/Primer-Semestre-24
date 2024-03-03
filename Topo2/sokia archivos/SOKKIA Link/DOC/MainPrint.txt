@@ -1,0 +1,10 @@
+0;Basic;기본
+1;Settings;확장
+2;Black/White;흑백
+3;Count;매수
+4;Line Width;선두께
+5;Margin;용지여백
+6;Font;글꼴
+7;Print;인쇄
+8;Printer Setup;프린트설정
+9;Print Area : Close-up by Zoom window;부분출력 : 원하는 부분을 확대하여 인쇄함

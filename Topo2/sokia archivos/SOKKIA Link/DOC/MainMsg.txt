@@ -1,0 +1,39 @@
+0;Do you want to replace it?;기존 파일과 중첩하겠습니까?
+1; is not number.; 숫자가 아님.
+2; empty.; 입력안했음.
+3;There is no Data.;데이타가 없음.
+4; saving error.; 파일저장 오류.
+5; is saved.; 파일저장 완료.
+6;Not saved, go back?;저장 안되었음, 되돌아가겠습니까?
+7;Select project!;프로젝트가 설정안되었음.
+8;Left No is not selected.;왼쪽 측점을 선택하지 않았음.
+9; file is not found.; 파일이 없음.
+10;Do not use more than 2 vertices.;폴리선이 절점 2개이상 안됨.
+11;[Stn pt Setting] is not executed.;[기계점 설정]을 안했음
+12; do not exist in display.;이(가) 화면에 없음.
+13;Link-point is not picked in display.;도면의 연결측점 선택안했음.
+14;Select point another,Because there is not point of same code in display.;도면에 같은 코드측점이 없으니, 다른점을 선택하세요
+15; is selected.; 선택됨.
+16;Select point in display.;도면에서 측점을 선택하세요.
+17; is linked.; 와 연결됨.
+18;Select line in display.;도면에서 측선을 선택하세요.
+19; is Changed, Save?; 바뀌었음, 저장하겠습니까?
+20;Quit?;종료 하겠습니까?
+21; Points is duplicated, Clear and Try again.;개 중복점이 있음,처리 후 다시하세요.
+22; Already ID is existed,Maximum No setup Automatically.; 이미 도면에 같은 번호가 있음. 자동 최대측번설정됨.
+23;OK, Clear data?;완료, 화면 초기화?
+24;You must register!;등록하세요!
+25;Settings are different from Instrument.;기계와 설정이 안맞음.
+26; has been changed.; 수정됨.
+27;Do you want to save the changes?;저장하겠습니까?
+28;You are trying to reduce coordinates to LLH. This function is not supported.;POS(N,E,Z) 좌표에서 LLH로 변환할 수 없습니다.
+29;The SDR file contains no coordinate system information.;SDR파일에 좌표계 파일명이 설정안되어 있음.
+30;The XFM file includes Plane to Plane transformation. This function is not currently supported.;XFM 파일에 [Plane to Plane] 변환있음. 현재는 가능한함.
+31;The selected coordinate system may be different from that used in the SDR file.;SDR파일의 좌표계 파일명과 다른 좌표계를 선택했음.
+32;This DXF file includes coordinate values. Do you want to add them to the coordinate list?;외부 프로그램 측점발견, 우리 측점으로 변환하겠습니까?
+33;Invalid XFM file specified on import.;XFM파일에 설정안된 유형이 있음.
+34;This projection is not supported in the current version.;이 투영법은 현재 지원안함.
+35;The SDR file contains total station data. This data will not be included in reduced results.;SDR파일에Total Station 데이타는 변환 안합니다.
+36;line is error in the SDR file. Check that line or delete.;째줄 문제가 있음, SDR파일을 확인후 삭제하세요.
+37;The input value is invalid.;입력을 잘못하였습니다.
+38;Please select "Removable Disk".;USB/CF Card의 SDR파일을 선택하세요.

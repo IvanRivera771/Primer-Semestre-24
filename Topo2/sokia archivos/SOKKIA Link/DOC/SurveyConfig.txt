@@ -1,0 +1,15 @@
+0;General;일반
+1;Graphic Font;그래픽글꼴
+2;S. Dist Limitation;측량 사거리 제한
+3;Measuring Time(Sec);측정시간(초)
+4;Slope Symbol Size;자연사면 심볼크기
+5;Cross Line Color;횡단선 색상
+6;Mark Precision;측점표기 소수점
+7;Auto Zoom after Measurement.;측량후 화면자동 줌
+8;C & R Correction;구차/기차 보정
+9;Unit;단위
+10;Precision;소수점 자리수
+11;Coordinate Order;좌표계 순서
+12;Show Separators;천단위 콤마 표시
+13;General Font Size;일반 문자크기
+14;Survey Font Size;전자평판 문자크기

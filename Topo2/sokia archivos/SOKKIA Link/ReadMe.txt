@@ -1,0 +1,2 @@
+The user's guide included in this CD-R is an electronic user's guide in PDF format. Adobe Reader is necessary in order to view this document. 
+The latest version of Acrobat Reader can be downloaded from the Adobe homepage.

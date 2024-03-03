@@ -1,0 +1,21 @@
+0;Insert pt;측점삽입
+1;Start pt;시점
+2;End pt;종점
+3;Line;직선
+4;Intersection;교차점
+5;Vertical pt;직교점
+6;Area;면적
+7;Perpendicularity;수직
+8;Exclusion pt;제외 측점
+9;Pyeong;평
+10;Ha;헥타
+11;Acre;에이커
+12;Planimetry;구적도 작성
+13;Divide;등분
+14;Div. Method;등분방법
+15;Count;등분수
+16;From last Pt. to End Pt.;등분 마지막 점과 종점 거리
+17;From End Pt. to over Pt.;등분 마지막 점과 추가점 거리
+18;Would you add the point over End Pt.?;지정한 종점을 넘어 점을 추가합니까?
+19;Add the point;측점 추가
+20;Only within set points;지정한 2점 사이만 등분점 작성

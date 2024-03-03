@@ -1,0 +1,6 @@
+0;Draw instrument point;기계점 작성
+1;Do not Draw;작성안함
+2;Draw [Close];작성 [닫기]
+3;Draw [Open];작성 [열기]
+4;By Code List;코드 리트스
+5;Link continuous codes;연속된 코드만 연결

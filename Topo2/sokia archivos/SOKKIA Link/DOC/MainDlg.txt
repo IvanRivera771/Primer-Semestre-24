@@ -1,0 +1,174 @@
+0;Exit;종료
+1;OK;확인
+2;Cancel;취소
+3;Drawing;도면작성
+4;Open File;파일열기
+5;Save File;파일저장
+6;Open Data;측량 파일열기
+7;Save Data;측량 파일저장
+8;Measure;측정
+9;Accept;확정
+10;Calc.;계산
+11;Settings;설정
+12;Select;선택
+13;Elev.;높이
+14;Angle;각도
+15;Point;측점
+16;Dist.;거리
+17;Inst. No;기계번호
+18;DXF Files;DXF 파일
+19;Save Point File;측점 파일저장
+20;Append;추가
+21;Insert;삽입
+22;Edit;수정
+23;Delete;삭제
+24;Azimuth;방위각
+25;Zenith;연직각
+26;S. Dist;사거리
+27;H. Dist;수평거리
+28;Inst. Ht.;기계고
+29;Prism Ht.;프리즘고
+30;Inst. Pt.;기계점
+31;BS Pt.;후시점
+32;BS;후시각
+33;Export;내보내기
+34;Plan Ht.;계획고
+35;H. Angle;수평각
+38;Move out;멀리 이동
+39;Move in;가까이 이동
+40;Connection;통신연결
+41;Survey;현황
+42;Setout;측설
+43;X-Sect;횡단
+44;Curve;선형
+45;Prof. curve;종곡선
+46;Supper;편구배
+47;Survey line;현황선
+48;V. Dist;수직거리
+49;Text Ht.;문자높이
+50;Dif. value;오차값
+51;File;파일
+52;Data;데이타
+53;Help;도움말
+54;Save;저장
+55;Symbol;심볼
+56;Offset;옵셋
+57;Color;색상
+58;Road;도로
+59;Rail;철도
+60;Arc;원곡선
+61;Clothoid;크로소이드
+62;Inch Sta;측점간 거리
+63;Add. Sta;추가 Sta
+64;Mark;표시
+65;Size;크기
+66;Vertex;절점
+67;Information;정보
+68;Building;건물
+69;Dif.;차이
+70;Open Project;프로젝트 열기
+71;Select Project;프로젝트 선택
+72;Delete Project;프로젝트 삭제
+73;New Project;새 프로젝트
+74;New DXF;DXF 새파일
+75;Open DXF File;DXF 파일열기
+76;Insert DXF File;DXF 파일 추가열기
+78;Save DXF File;DXF 파일저장
+79;Site Report;야장작업 출력
+80;Text File;텍스트 파일
+81;Excel File;엑셀 파일
+82;Printer Setup;프린트 설정
+83;Print Area;프린트 영역
+84;Print;프린트
+87;Fill;성토
+88;Cut;절토
+89;Graphic;그림
+90;Port Setup;통신
+91;Options;환경
+92;Black Background;검정 배경색
+93;Transform;변환
+94;SDR+;SDR+
+95;Save Changes;도면 저장
+96;Do not Save;저장 안함
+97;Number of Decimals;표기 소수점
+98;Load automatically Project DXF;프로젝트 DXF 자동적재
+99;Input Pt;측점입력
+100;Move right;우측으로 이동
+101;Move left;좌측으로 이동
+102;View Profile;종단면 보기
+103;Insert Image;이미지 삽입
+104;Receive Data;통신 받기
+105;Send Data;통신 전송
+107;Move Points;좌표 변환
+108;Horizontal;평면
+109;Cut/Fill;절토/성토
+110;Regen Text;측점표기 수정
+111;Mark Text;측점표기 수정
+112;Draw TIN;TIN 작성
+113;Unit Conversion;단위 환산
+114;Calculate Point;좌표 계산
+115;Code List Editor;코드 리스트
+116;Auto;자동
+117;Tools;도구
+118;Sort;정렬
+119;Total Station;Total Station
+121;Digital Level;Digital Level
+122;Instrument setiings;기계설정 환경
+123;Dist. meas. units;거리단위
+124;Temp.&Press. units;기온/압력단위
+125;C&R correction;구차 기차 보정
+126;Prism constant;프리즘 상수
+127;Angle meas. untis;각도단위
+128;Vert. angle display;고도각 표시
+129;Tilt angle compen.;경사각 보정
+130;Coord. format;좌표형식
+131;Coordinate list;측  점
+132;Real Time Meas.;계  측
+136;Hatch Col;해치색
+137;Type;유형
+138;Text Ht.;문자높이
+139;Snap;스냅
+140;Base;기준
+141;Resection;미지점
+142;Point-link;현황선 연결
+143;Pre-Pt;전점
+144;Pre before;전전점
+145;Same code;같은코드
+146;Attribute;선속성
+147;Point Mark;측점표기
+148;Mark;표기
+149;Change;바꾸기
+150;Draw;작성
+151;Setout Pt.;내릴점
+152;Profile Reference;참조 종단좌표
+153;Dif. Sta;Sta차
+154;Auto. Zoom;자동화면
+155;Purge;소거
+156;Making;만들기
+158;Coordinate System;좌표계
+159;File Name;파일명
+160;Rect-style Building;사각 건물작성
+161;L-style Building;L자형 건물작성
+162;Slope Mark Draw-up;자연사면 작성
+163;Pt to Pt Calc.;측점간 계산
+164;Change Attirbute;속성 바꾸기
+165;Change Current Layer;현재 레이어로 바꾸기
+166;Change Color;색상 개별 바꾸기
+167;Change Line Width;선 두께 바꾸기
+168;Cancel Select;선택 취소
+169;SHP Files;SHP 파일
+170;Insert SHP File;SHP 파일 추가열기
+171;Save SHP File;SHP 파일저장
+172;XML Files;XML 파일
+173;Insert XML File;XML 파일 추가열기
+174;Save XML File;XML 파일저장
+175;Grid;그리드
+176;Scale;축척
+177;Layer;레이어
+178;Line type;선유형
+179;Register using SDR file;USB/CF Card의 SDR 파일읽기
+180;Full Screen;전체화면
+181;3D Survey Color;3차원 현황 색상
+182;Color by Height;측점 높이별 색상 범례 및 설정
+183;Remained Distance;남은 거리
+184;Minimum Distance;최소간격
