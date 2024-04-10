@@ -3,19 +3,20 @@
 
 
 
-	
+------------CANCHAS 3 GRUPO 4-------------------------------------------------------------------------------------------
+
 1 Caratula + Introduccion+ Descripcion de lo que se hizo en la practica					Diulisa, Paula  
 
-2 Generar los datos para presentar,  planos de localizacion y de ubicacion, registro...			Josué, Alex , Bryan
+2 Planos de localizacion y de ubicacion, registro...							Gerson, Alejandra
 
-3 Objetivos + Conclusion + Anexos + Juntar trabajo y ordenarlo 						Gerson, Bryant
+3 Objetivos + Conclusion + Anexos + Juntar trabajo y ordenarlo 						Bryan, Bryant
 
-4 Pasar lo datos obtenidos del exel realizado a Autocad, realizar lo del poligono con area,
- y la vista de perfil dando los niveles								 	Rocio, Alejandra. 									
+4 Movimientos de tierra, Crear curvas de nivel etc						 	Josue, Rocio, Alex  									
 
 0 Pasar los datos de USB A SOKKIA, pasarlos a exel.							Ivan 
 
 		
+
 
 
 
