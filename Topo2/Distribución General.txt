@@ -11,7 +11,10 @@
 
 3 Objetivos + Conclusion + Anexos + Juntar trabajo y ordenarlo 						Bryan, Bryant
 
-4 Movimientos de tierra, Crear curvas de nivel etc						 	Josue, Rocio, Alex  									
+4 --Movimiento de tierra, sacar volumen de corte  
+  --Curvas de nivel
+  --Graficar perfil, similar a lo de la poligonal 
+    abierta que se realizo en el ultimo reporte							 	Josue, Rocio, Alex  									
 
 0 Pasar los datos de USB A SOKKIA, pasarlos a exel.							Ivan 
 
