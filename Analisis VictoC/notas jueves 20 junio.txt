@@ -1,0 +1,8 @@
+la deformacion vertical es igual a 
+
+capaciddad del elemento a la deformacion angular 
+
+capacidad vale 4EI/L
+
+K  es una deformacion unitaria angular 
+
